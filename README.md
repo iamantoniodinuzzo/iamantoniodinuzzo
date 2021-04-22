@@ -55,7 +55,7 @@ Hi I'm Antonio student of Computer Science 👨🏻‍💻 at the Federico II an
 
 <br/>  
 
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" style="width: 100%" />  
+<img src="https://komarev.com/ghpvc/?username=Indisparte&style=flat-square" align="center" style="width: 100%" />  
 
   
 <br/>  
