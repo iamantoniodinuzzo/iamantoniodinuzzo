@@ -17,12 +17,12 @@
 
 
 ## Glad to see you here!  
-Hi I'm Antonio student of Computer Science 👨🏻‍💻 at the Federico II and passionate about technology and film .🍿  
+Hi I'm Antonio student of Computer Science 👨🏻‍💻 at the Federico II and passionate about technology and movies .🍿  
   
 
 <br/>  
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>  
 
