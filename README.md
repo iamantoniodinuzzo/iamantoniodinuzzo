@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
   Welcome to Indisparte's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>  
+</h1>  
 
 <a href="https://instagram.com/_n_tony" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
