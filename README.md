@@ -84,5 +84,4 @@ I am a Computer Science student at Federico II and will soon be a full-stack dev
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
