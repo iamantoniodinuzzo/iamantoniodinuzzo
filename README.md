@@ -1,10 +1,7 @@
 ## Hey 👋, I'm Antonio!  
   
 
-<a href="https://github.com/Indisparte" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_n_tony" target="_blank">
+<a href="https://instagram.com/indisp4rt3" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
@@ -26,7 +23,7 @@ I am a Computer Science student at Federico II and will soon be a full-stack dev
 - 🔭 I’m currently working on [CineMates20](https://github.com/Indisparte/CineMates20) & [Java-practice](https://github.com/Indisparte/Java-practice)
   
 
-- 🌱 I’m currently learning Java & C++
+- 🌱 I’m currently learning Java, C++ & Software engeneering
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
