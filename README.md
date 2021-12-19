@@ -20,7 +20,7 @@ I am a Computer Science student at Federico II and will soon be a full-stack dev
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [CineMates20](https://github.com/Indisparte/CineMates20) & [Java-practice](https://github.com/Indisparte/Java-practice)
+- 🔭 I’m currently working on [CineMates20](https://github.com/Indisparte/CineMates) & [Java-practice](https://github.com/Indisparte/Java-practice)
   
 
 - 🌱 I’m currently learning Java, C++ & Software engeneering
