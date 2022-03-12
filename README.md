@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-I am a Computer Science student at Federico II and will soon be a full-stack developer.
+I am a Computer Science student at Federico II and will soon be an app developer.
 
   
   
