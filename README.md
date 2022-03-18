@@ -1,4 +1,4 @@
-## Hey 👋, I'm Antonio!  
+# Hey 👋, I'm Antonio!  
   
 
 <a href="https://instagram.com/iamantoniodinuzzo" target="_blank">
@@ -43,29 +43,27 @@ I am a Computer Science student at Federico II and will soon be an app developer
 
 ## Languages and Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="35" /> 
+<img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" height="35" />  
+<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/226/226770.png" alt="Android" height="35" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="35" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="35" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="Git" height="35" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" alt="Java" height="35" />
+<img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.png" alt="Android Studio" height="35" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" alt="Notion" height="35" />  
 </div>  
 
 <br/>  
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Indisparte&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indisparte&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<a href="https://github.com/Indisparte/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Indisparte&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/Indisparte">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indisparte&layout=compact&theme=gruvbox" />
+</a>
 
 <br/>  
 
