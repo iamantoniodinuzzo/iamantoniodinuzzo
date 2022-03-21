@@ -20,13 +20,13 @@ I am a Computer Science student at Federico II and will soon be an app developer
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [CineMates](https://github.com/Indisparte/CineMates) & [Java-practice](https://github.com/Indisparte/Java-practice)
+- 🔭 I am currently studying but will soon make my new projects public.
   
 
-- 🌱 I’m currently learning Java, C++ & Software engeneering
+- 🌱 I’m currently learning Java, C++, UI/UX & Software engeneering.
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep night shift swithed on at all times.   
 
 
 </td><td valign="top" width="50%">
