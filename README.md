@@ -1,9 +1,7 @@
 # Hey 👋, I'm Antonio!  
   
 
-<a href="https://instagram.com/iamantoniodinuzzo" target="_blank">
-<img align="center" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+
 <a href="https://www.linkedin.com/in/iamantoniodinuzzo/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
