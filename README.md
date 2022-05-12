@@ -58,17 +58,6 @@ I am a Computer Science student at Federico II and will soon be an Android app d
 
 <br/>  
 
-
-## Github Stats  
-<a href="https://github.com/Indisparte/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Indisparte&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/Indisparte">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indisparte&layout=compact&theme=gruvbox" />
-</a>
-
-<br/>  
-
   
 
 <br/>  
