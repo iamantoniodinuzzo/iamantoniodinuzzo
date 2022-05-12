@@ -11,7 +11,7 @@
 
 
 ### Glad to see you here!  
-I am a Computer Science student at Federico II and will soon be an app developer.
+I am a Computer Science student at Federico II and will soon be an Android app developer.
 
   
   
