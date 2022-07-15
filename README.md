@@ -1,7 +1,7 @@
 # 💫About Me :
 - 🔭 I am currently studying but will soon make my new projects public.
   
-- 🌱 I’m currently learning Java, C++, UI/UX & Software engineering.
+- 🌱 I’m currently learning Java, Android development, UI/UX & Software engineering.
   
 - ⚡ Fun fact: I keep night shift switched on at all times.   
 
