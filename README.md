@@ -16,6 +16,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Indisparte&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Indisparte&icon=5&color=11)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/Indisparte/count.svg)
