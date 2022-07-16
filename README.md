@@ -5,7 +5,7 @@
   
 - ⚡ Fun fact: I keep night shift switched on at all times.   
 
-## 🌐Socials
+# 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamantoniodinuzzo) 
 
 # 💻Tech Stack
@@ -13,7 +13,7 @@
 # 📊GitHub Stats :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Indisparte&theme=monokai)
 
-## 🏆GitHub Trophies
+# 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Indisparte&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
 
