@@ -6,7 +6,7 @@
 
 # 💫About Me :
   
-- 📖 I’m currently learning **Java** and **Kotlin**, Android development, UI/UX & Software engineering.
+- 📖 I’m currently learning **Android development** with **Kotlin**.
   
 - ⚡ Fun fact: I keep night shift switched on at all times.   
 
@@ -18,8 +18,6 @@
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 |  <a href="https://github.com/Indisparte/CineMates"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Indisparte&repo=CineMates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CineMates"></a>| [![GitHub issues](https://img.shields.io/github/issues/Indisparte/CineMates?color=green&logo=github&style=flat)](https://github.com/Indisparte/CineMates/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Indisparte/CineMates?style=flat&logo=github)](https://github.com/Indisparte/CineMates/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Indisparte/CineMates?style=flat&color=critical&logo=github)](https://github.com/Indisparte/CineMates/pulls?q=is%3Apr+is%3Aclosed)  |
-| <a href="https://github.com/Indisparte/TCPClient"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Indisparte&repo=TCPClient&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TCPClient"></a>|[![GitHub issues](https://img.shields.io/github/issues/Indisparte/TCPClient?color=green&logo=github&style=flat)](https://github.com/Indisparte/TCPClient/issues)|[![GitHub PRs](https://img.shields.io/github/issues-pr/Indisparte/TCPClient?style=flat&logo=github)](https://github.com/Indisparte/TCPClient/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Indisparte/TCPClient?style=flat&color=critical&logo=github)](https://github.com/Indisparte/TCPClient/pulls?q=is%3Apr+is%3Aclosed)  |
-| <a href="https://github.com/Indisparte/MulticlientServer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Indisparte&repo=MulticlientServer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MulticlientServer"></a>|[![GitHub issues](https://img.shields.io/github/issues/Indisparte/MulticlientServer?color=green&logo=github&style=flat)](https://github.com/Indisparte/MulticlientServer/issues)|[![GitHub PRs](https://img.shields.io/github/issues-pr/Indisparte/MulticlientServer?style=flat&logo=github)](https://github.com/Indisparte/MulticlientServer/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Indisparte/MulticlientServer?style=flat&color=critical&logo=github)](https://github.com/Indisparte/MulticlientServer/pulls?q=is%3Apr+is%3Aclosed)  |
 
 <p align="left">
   <a href="https://github.com/Indisparte?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
