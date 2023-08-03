@@ -1,12 +1,12 @@
 <div style="width: 100%;">
-  <a href="https://github.com/Indisparte/Indisparte/blob/main/welcome.svg">
+  <a href="https://github.com/iamantoniodinuzzo/iamantoniodinuzzo/blob/main/welcome.svg">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 
 # 💫About Me :
   
-- 📖 I’m currently learning **Android development** with **Kotlin**.
+- 📖 I’m currently learning **Android development** with **Kotlin** and **Modularization**.
   
 - ⚡ Fun fact: I keep night shift switched on at all times.   
 
@@ -17,10 +17,12 @@
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
-|  <a href="https://github.com/Indisparte/CineMates"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Indisparte&repo=CineMates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CineMates"></a>| [![GitHub issues](https://img.shields.io/github/issues/Indisparte/CineMates?color=green&logo=github&style=flat)](https://github.com/Indisparte/CineMates/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Indisparte/CineMates?style=flat&logo=github)](https://github.com/Indisparte/CineMates/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Indisparte/CineMates?style=flat&color=critical&logo=github)](https://github.com/Indisparte/CineMates/pulls?q=is%3Apr+is%3Aclosed)  |
+|  <a href="https://github.com/iamantoniodinuzzo/CineMates"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iamantoniodinuzzo&repo=CineMates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CineMates"></a>| [![GitHub issues](https://img.shields.io/github/issues/iamantoniodinuzzo/CineMates?color=green&logo=github&style=flat)](https://github.com/iamantoniodinuzzo/CineMates/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/iamantoniodinuzzo/CineMates?style=flat&logo=github)](https://github.com/iamantoniodinuzzo/CineMates/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/iamantoniodinuzzo/CineMates?style=flat&color=critical&logo=github)](https://github.com/iamantoniodinuzzo/CineMates/pulls?q=is%3Apr+is%3Aclosed)  |
+|  <a href="https://github.com/iamantoniodinuzzo/Pothole-Client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iamantoniodinuzzo&repo=Pothole-Client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pothole-Client"></a>| [![GitHub issues](https://img.shields.io/github/issues/iamantoniodinuzzo/Pothole-Client?color=green&logo=github&style=flat)](https://github.com/iamantoniodinuzzo/Pothole-Client/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/iamantoniodinuzzo/Pothole-Client?style=flat&logo=github)](https://github.com/iamantoniodinuzzo/Pothole-Client/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/iamantoniodinuzzo/Pothole-Client?style=flat&color=critical&logo=github)](https://github.com/iamantoniodinuzzo/Pothole-Client/pulls?q=is%3Apr+is%3Aclosed)  |
+
 
 <p align="left">
-  <a href="https://github.com/Indisparte?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/iamantoniodinuzzo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 # 💻 Tech Stack
@@ -35,9 +37,9 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 # 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Indisparte&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamantoniodinuzzo&theme=blue-green)
 ---
-![Visitor Count](https://profile-counter.glitch.me/Indisparte/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/iamantoniodinuzzo/count.svg)
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
