@@ -25,16 +25,8 @@
   <a href="https://github.com/iamantoniodinuzzo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-# 💻 Tech Stack
-![Android][android-shield]
-![Java][java-shield]
-![Kotlin][kotlin-shield]
-
-# 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamantoniodinuzzo&layout=pie)](https://github.com/iamantoniodinuzzo/github-readme-stats)
----
-![Visitor Count](https://profile-counter.glitch.me/iamantoniodinuzzo/count.svg)
-
+# :godmode: God eye
+![Profile 3D](https://github.com/iamantoniodinuzzo/iamantoniodinuzzo/blob/main/profile-3d-contrib/profile-night-green.svg)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
