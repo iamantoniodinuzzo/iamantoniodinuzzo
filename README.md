@@ -1,8 +1,10 @@
-<div style="width: 100%;">
+<!--<div style="width: 100%;">
   <a href="https://github.com/iamantoniodinuzzo/iamantoniodinuzzo/blob/main/welcome.svg">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
-</div>
+</div>-->
+# :godmode: God's eye
+![Profile 3D](https://github.com/iamantoniodinuzzo/iamantoniodinuzzo/blob/main/profile-3d-contrib/profile-night-green.svg)
 
 # 💫About Me :
   
@@ -25,8 +27,6 @@
   <a href="https://github.com/iamantoniodinuzzo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-# :godmode: God eye
-![Profile 3D](https://github.com/iamantoniodinuzzo/iamantoniodinuzzo/blob/main/profile-3d-contrib/profile-night-green.svg)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
