@@ -20,7 +20,6 @@
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  |
 |-------------|-------------------|---|
 |  <a href="https://github.com/iamantoniodinuzzo/CineMates"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iamantoniodinuzzo&repo=CineMates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CineMates"></a>| [![Cinemates issues][cinemates-issues-shield]][cinemates-issues-url] | [![Cinemates PRs][cinemates-pr-shield]][cinemates-pr-url]  |
-|  <a href="https://github.com/iamantoniodinuzzo/MoovaRide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iamantoniodinuzzo&repo=MoovaRide&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MoovaRide"></a>| [![MoovaRide issues][moovaride-issues-shield]][moovaride-issues-url] | [![MoovaRide PRs][moovaride-pr-shield]][moovaride-pr-url]  | 
 
 
 <p align="left">
