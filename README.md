@@ -14,7 +14,7 @@
 
 # 🌐 Socials
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+<!-- Work in progress
 # 📘 My open source projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  |
@@ -26,7 +26,7 @@
 <p align="left">
   <a href="https://github.com/iamantoniodinuzzo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
+-- >
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
